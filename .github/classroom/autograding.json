@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "link list JS implementation test cases",
+      "setup": "yarn",
+      "run": "yarn test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
